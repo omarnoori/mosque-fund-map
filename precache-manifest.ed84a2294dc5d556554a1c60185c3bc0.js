@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4eb3e0822eecb68317b395652def0cf7",
+    "revision": "7b88a9b8cf143f8b99d002031e667322",
     "url": "/mosque-fund-map/index.html"
   },
   {
-    "revision": "f65110fc19c02b488fd1",
+    "revision": "95199b7601b79b73e4d1",
     "url": "/mosque-fund-map/static/css/main.8281289a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mosque-fund-map/static/js/2.7460667d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f65110fc19c02b488fd1",
-    "url": "/mosque-fund-map/static/js/main.4d196cc5.chunk.js"
+    "revision": "95199b7601b79b73e4d1",
+    "url": "/mosque-fund-map/static/js/main.5acfd48d.chunk.js"
   },
   {
     "revision": "b9dde30fd765ceb16940",
