@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f224437084a67580cc00c32079609e91",
+    "revision": "ce8cd4cc81e3e59ebcc01773d74f97bd",
     "url": "/mosque-fund-map/index.html"
   },
   {
-    "revision": "7e7e274276d597a4c212",
-    "url": "/mosque-fund-map/static/css/main.b0e43a56.chunk.css"
+    "revision": "07d19e0ff95194a6b141",
+    "url": "/mosque-fund-map/static/css/main.eb5726d8.chunk.css"
   },
   {
-    "revision": "6543cae00476af7ad03f",
-    "url": "/mosque-fund-map/static/js/2.14e1bd65.chunk.js"
+    "revision": "adb81ce39bcb73e55da7",
+    "url": "/mosque-fund-map/static/js/2.c48908c3.chunk.js"
   },
   {
     "revision": "0fb0e672f1308cb5b7677cdb93fc42ab",
-    "url": "/mosque-fund-map/static/js/2.14e1bd65.chunk.js.LICENSE.txt"
+    "url": "/mosque-fund-map/static/js/2.c48908c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7e7e274276d597a4c212",
-    "url": "/mosque-fund-map/static/js/main.b7abdcee.chunk.js"
+    "revision": "07d19e0ff95194a6b141",
+    "url": "/mosque-fund-map/static/js/main.77c7fe66.chunk.js"
   },
   {
     "revision": "b9dde30fd765ceb16940",
