@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mosque-fund-map/precache-manifest.c6be3324207259fd5aece870e78199a6.js"
+  "/mosque-fund-map/precache-manifest.2759a0ce97b24b8601b107d2f7eae29b.js"
 );
 
 self.addEventListener('message', (event) => {
