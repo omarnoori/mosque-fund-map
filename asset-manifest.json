@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mosque-fund-map/static/css/main.eb5726d8.chunk.css",
-    "main.js": "/mosque-fund-map/static/js/main.ff16cc85.chunk.js",
-    "main.js.map": "/mosque-fund-map/static/js/main.ff16cc85.chunk.js.map",
+    "main.js": "/mosque-fund-map/static/js/main.d304d9a2.chunk.js",
+    "main.js.map": "/mosque-fund-map/static/js/main.d304d9a2.chunk.js.map",
     "runtime-main.js": "/mosque-fund-map/static/js/runtime-main.968a2444.js",
     "runtime-main.js.map": "/mosque-fund-map/static/js/runtime-main.968a2444.js.map",
-    "static/js/2.ccaaac21.chunk.js": "/mosque-fund-map/static/js/2.ccaaac21.chunk.js",
-    "static/js/2.ccaaac21.chunk.js.map": "/mosque-fund-map/static/js/2.ccaaac21.chunk.js.map",
+    "static/js/2.6bf2eee1.chunk.js": "/mosque-fund-map/static/js/2.6bf2eee1.chunk.js",
+    "static/js/2.6bf2eee1.chunk.js.map": "/mosque-fund-map/static/js/2.6bf2eee1.chunk.js.map",
     "index.html": "/mosque-fund-map/index.html",
-    "precache-manifest.68e044e4435c21fc00e60aee2c2f8097.js": "/mosque-fund-map/precache-manifest.68e044e4435c21fc00e60aee2c2f8097.js",
+    "precache-manifest.c6be3324207259fd5aece870e78199a6.js": "/mosque-fund-map/precache-manifest.c6be3324207259fd5aece870e78199a6.js",
     "service-worker.js": "/mosque-fund-map/service-worker.js",
     "static/css/main.eb5726d8.chunk.css.map": "/mosque-fund-map/static/css/main.eb5726d8.chunk.css.map",
-    "static/js/2.ccaaac21.chunk.js.LICENSE.txt": "/mosque-fund-map/static/js/2.ccaaac21.chunk.js.LICENSE.txt",
+    "static/js/2.6bf2eee1.chunk.js.LICENSE.txt": "/mosque-fund-map/static/js/2.6bf2eee1.chunk.js.LICENSE.txt",
     "static/media/mosque1.png": "/mosque-fund-map/static/media/mosque1.f26d7619.png",
     "static/media/mosque2.png": "/mosque-fund-map/static/media/mosque2.f90eacbc.png",
     "static/media/mosque3.png": "/mosque-fund-map/static/media/mosque3.faee101b.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.968a2444.js",
-    "static/js/2.ccaaac21.chunk.js",
+    "static/js/2.6bf2eee1.chunk.js",
     "static/css/main.eb5726d8.chunk.css",
-    "static/js/main.ff16cc85.chunk.js"
+    "static/js/main.d304d9a2.chunk.js"
   ]
 }
