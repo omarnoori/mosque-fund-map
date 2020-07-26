@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mosque-fund-map/static/css/main.eb5726d8.chunk.css",
-    "main.js": "/mosque-fund-map/static/js/main.2507f015.chunk.js",
-    "main.js.map": "/mosque-fund-map/static/js/main.2507f015.chunk.js.map",
+    "main.js": "/mosque-fund-map/static/js/main.2926362f.chunk.js",
+    "main.js.map": "/mosque-fund-map/static/js/main.2926362f.chunk.js.map",
     "runtime-main.js": "/mosque-fund-map/static/js/runtime-main.968a2444.js",
     "runtime-main.js.map": "/mosque-fund-map/static/js/runtime-main.968a2444.js.map",
     "static/js/2.e1f8d35d.chunk.js": "/mosque-fund-map/static/js/2.e1f8d35d.chunk.js",
     "static/js/2.e1f8d35d.chunk.js.map": "/mosque-fund-map/static/js/2.e1f8d35d.chunk.js.map",
     "index.html": "/mosque-fund-map/index.html",
-    "precache-manifest.24c31002b32fec91da406c351a2ee9ee.js": "/mosque-fund-map/precache-manifest.24c31002b32fec91da406c351a2ee9ee.js",
+    "precache-manifest.fca373873635f13a100bc64800cab665.js": "/mosque-fund-map/precache-manifest.fca373873635f13a100bc64800cab665.js",
     "service-worker.js": "/mosque-fund-map/service-worker.js",
     "static/css/main.eb5726d8.chunk.css.map": "/mosque-fund-map/static/css/main.eb5726d8.chunk.css.map",
     "static/js/2.e1f8d35d.chunk.js.LICENSE.txt": "/mosque-fund-map/static/js/2.e1f8d35d.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.968a2444.js",
     "static/js/2.e1f8d35d.chunk.js",
     "static/css/main.eb5726d8.chunk.css",
-    "static/js/main.2507f015.chunk.js"
+    "static/js/main.2926362f.chunk.js"
   ]
 }
